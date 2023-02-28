@@ -22,7 +22,7 @@ const recipes = [
     {
         name: "coconut",
         id: "5ee",
-        git price: 3
+        price: 3
     },
     ];
     
